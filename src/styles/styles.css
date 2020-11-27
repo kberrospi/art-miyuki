@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,500;1,600;1,700&display=swap');
+
+*{
+  margin: 0px;
+}
+
+html, body{
+  font-family: 'Cormorant Garamond', serif !important;
+  /*background-color: #FFEED9;*/
+  background-image: url('https://image.freepik.com/foto-gratis/fondo-papel-tapiz-vintage_53876-25246.jpg');
+  background-size: cover;
+}
+
+nav{
+  font-size: 32px !important;
+}
+.navbar-center{
+    justify-content: center;
+}
+
+.title{
+  font-size: 60px;
+}
+
+.container-contact{
+  display: flex;
+  flex-direction: row;
+  width: 75%;
+}
+
+.cc{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.bg-pr{
+  background-color: #FFF7E0;
+}
+
+.contact{
+  border-radius: 10px;
+}
+
+
+
+.card{
+  height: 100%;
+}
+
+.card-img{
+    /* opacity: 0.2;
+    filter:  alpha(opacity=50); */
+}
+
+.container-cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  
+}
+.cards{
+  width: 80%;
+}
+.menu{
+  background-color: #FFF7E0 !important;
+}
+.menu1{
+  border-bottom: 2px solid #ffb4a4;
+  background-color: #FFF7E0 !important;
+}
+
+.nav-link{
+  color:  #DF744A !important;
+
+}
+
+.nav-link:hover{
+  color: #ffb4a4 !important;
+  transition: all 0.5s ease;
+}
+
+.btn{
+  font-size: 20px!important;
+}
+
+.btn-primary{
+  background-color: #FF9165;
+  border-color: #FF9165;
+}
+
+.btn-primary:hover{
+  background-color: #DF744A;
+  border-color: #DF744A;
+}
+
+.dropdown-item{
+  font-size: 25px!important;
+}
+
+.card-img-top{
+  height: 60%!important;
+}
+
+.icons{
+  font-size: 25px;
+  color: #DF744A;
+}
