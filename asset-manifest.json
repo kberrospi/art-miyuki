@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/art-miyuki/static/css/main.95c34b1e.chunk.css",
+    "main.js": "/art-miyuki/static/js/main.20d236e4.chunk.js",
+    "main.js.map": "/art-miyuki/static/js/main.20d236e4.chunk.js.map",
+    "runtime-main.js": "/art-miyuki/static/js/runtime-main.3ce375b2.js",
+    "runtime-main.js.map": "/art-miyuki/static/js/runtime-main.3ce375b2.js.map",
+    "static/js/2.88f58892.chunk.js": "/art-miyuki/static/js/2.88f58892.chunk.js",
+    "static/js/2.88f58892.chunk.js.map": "/art-miyuki/static/js/2.88f58892.chunk.js.map",
+    "index.html": "/art-miyuki/index.html",
+    "static/css/main.95c34b1e.chunk.css.map": "/art-miyuki/static/css/main.95c34b1e.chunk.css.map",
+    "static/js/2.88f58892.chunk.js.LICENSE.txt": "/art-miyuki/static/js/2.88f58892.chunk.js.LICENSE.txt",
+    "static/media/aretes.2171af4a.jpg": "/art-miyuki/static/media/aretes.2171af4a.jpg",
+    "static/media/botanica.1ddb32ab.png": "/art-miyuki/static/media/botanica.1ddb32ab.png",
+    "static/media/coral.421635b4.png": "/art-miyuki/static/media/coral.421635b4.png",
+    "static/media/gardenia_ocre.85aa633c.png": "/art-miyuki/static/media/gardenia_ocre.85aa633c.png",
+    "static/media/gardenia_roja.500a4f40.png": "/art-miyuki/static/media/gardenia_roja.500a4f40.png",
+    "static/media/girasoles.4d8527ff.jpg": "/art-miyuki/static/media/girasoles.4d8527ff.jpg",
+    "static/media/kimbai.b7542dba.png": "/art-miyuki/static/media/kimbai.b7542dba.png",
+    "static/media/logo.6e629276.png": "/art-miyuki/static/media/logo.6e629276.png",
+    "static/media/mariposa_beige.071db938.jpg": "/art-miyuki/static/media/mariposa_beige.071db938.jpg",
+    "static/media/maxi.8c0951d0.jpg": "/art-miyuki/static/media/maxi.8c0951d0.jpg",
+    "static/media/orquidea_palo_rosa.5b9355bc.png": "/art-miyuki/static/media/orquidea_palo_rosa.5b9355bc.png",
+    "static/media/plata.1d743820.jpg": "/art-miyuki/static/media/plata.1d743820.jpg",
+    "static/media/pulsera_miyuki.1f6f1ebe.jpeg": "/art-miyuki/static/media/pulsera_miyuki.1f6f1ebe.jpeg",
+    "static/media/vino.167292db.jpg": "/art-miyuki/static/media/vino.167292db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ce375b2.js",
+    "static/js/2.88f58892.chunk.js",
+    "static/css/main.95c34b1e.chunk.css",
+    "static/js/main.20d236e4.chunk.js"
+  ]
+}
