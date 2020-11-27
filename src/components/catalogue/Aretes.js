@@ -12,7 +12,7 @@ export const Aretes = () => {
           { array.map( (aretes, key) => 
             <div className="col mb-4" key={ key }>
               <div className="card">
-                <img src={ aretes.img } className="card-img-top" alt={ aretes.name } />
+                <img src={ `.${aretes.img}` } className="card-img-top" alt={ aretes.name } />
                 <div className="card-body">
                   <h3 className="card-title"> { aretes.name } </h3>
                   <h4 className="card-text"> { `$ ${ aretes.price }` } </h4>

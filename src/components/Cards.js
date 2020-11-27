@@ -14,7 +14,7 @@ export const Cards = () => {
         <div className='cards p-3'>
           <div className="card-deck">
             <div className="card text-center" >
-              <img src={ aretes } className="card-img-top card-img " alt="..." />
+              <img src={ `.${aretes}` } className="card-img-top card-img " alt="..." />
               <div className="card-body">
                 <h2 className="card-title">Aretes</h2>
                 <Link to="/aretes" className="btn btn-primary">Ver Más</Link>
@@ -22,7 +22,7 @@ export const Cards = () => {
             </div>
 
             <div className="card text-center" >
-              <img src={ pulsera } className="card-img-top card-img " alt="..." />
+              <img src={ `.${pulsera}` } className="card-img-top card-img " alt="..." />
               <div className="card-body">
                 <h2 className="card-title">Pulseras</h2>
                 <Link to="/pulseras" className="btn btn-primary">Ver Más</Link>
@@ -30,7 +30,7 @@ export const Cards = () => {
             </div>
 
             <div className="card text-center" >
-              <img src={ diadema } className="card-img-top card-img " alt="..." />
+              <img src={ `.${diadema}` } className="card-img-top card-img " alt="..." />
               <div className="card-body">
                 <h2 className="card-title">Diademas</h2>
                 <Link to="/diademas" className="btn btn-primary">Ver Más</Link>

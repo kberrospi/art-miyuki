@@ -12,7 +12,7 @@ export const Pulseras = () => {
             { array.map((pulseras, key) =>
               <div className="col mb-4" key={key}>
                 <div className="card">
-                  <img src={pulseras.img} className="card-img-top" alt={pulseras.name} />
+                  <img src={ `.${pulseras.img}` } className="card-img-top" alt={pulseras.name} />
                   <div className="card-body">
                     <h3 className="card-title"> {pulseras.name} </h3>
                     <h4 className="card-text"> {`$ ${pulseras.price}`} </h4>
