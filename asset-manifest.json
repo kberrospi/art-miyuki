@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/art-miyuki/static/css/main.95c34b1e.chunk.css",
-    "main.js": "/art-miyuki/static/js/main.4e8c2b60.chunk.js",
-    "main.js.map": "/art-miyuki/static/js/main.4e8c2b60.chunk.js.map",
+    "main.js": "/art-miyuki/static/js/main.5030bdc1.chunk.js",
+    "main.js.map": "/art-miyuki/static/js/main.5030bdc1.chunk.js.map",
     "runtime-main.js": "/art-miyuki/static/js/runtime-main.3ce375b2.js",
     "runtime-main.js.map": "/art-miyuki/static/js/runtime-main.3ce375b2.js.map",
     "static/js/2.acf4f2cc.chunk.js": "/art-miyuki/static/js/2.acf4f2cc.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.3ce375b2.js",
     "static/js/2.acf4f2cc.chunk.js",
     "static/css/main.95c34b1e.chunk.css",
-    "static/js/main.4e8c2b60.chunk.js"
+    "static/js/main.5030bdc1.chunk.js"
   ]
 }
