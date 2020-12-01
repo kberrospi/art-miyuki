@@ -109,3 +109,18 @@ nav{
   font-size: 25px;
   color: #DF744A;
 }
+
+table{
+  font-size: 25px;
+}
+
+.badge-yuki{
+  color: white;
+  background-color: #DF744A;
+}
+
+.badge-yuki:hover{
+  text-decoration: none;
+  color: white;
+  background-color: #FF9165;
+}

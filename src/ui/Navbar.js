@@ -7,19 +7,22 @@ export const Navbar = () => {
     <div>
 
       <nav className="navbar navbar-light bg-light navbar-center menu ">
-        <a className="navbar-brand" href="/#">
+        <Link className="navbar-brand" to="/art-miyuki">
           <img src={logo} width="215" height="215" alt="" />
-        </a>
+        </Link>
       </nav>
       <nav className="navbar navbar-expand-lg navbar-light bg-light menu1 ">
 
         <div className="collapse navbar-collapse navbar-center" id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item ">
-              <Link className="nav-link" to="/">Inicio</Link>
+              <Link className="nav-link" to="/art-miyuki">Inicio</Link>
             </li>
             <li className="nav-item">
               <Link className="nav-link" to="/contact">Contacto</Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/evidences">Evidencias</Link>
             </li>
             <li className="nav-item dropdown">
               <a className="nav-link dropdown-toggle" href="/#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
